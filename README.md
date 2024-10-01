@@ -60,22 +60,13 @@
     <div style="display:flex;align-items:center"><img width="15" src="images/notification.png" style="margin-right:5px" /> Web Push Notification</div>
     <div style="display:flex;align-items:center"><img width="15" src="images/speedometer.png" style="margin-right:5px" /> Performance Analytics</div>
 
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-This project is also hosted in firebase, you can run the web app on your browser using this links:
-
-- [Project Page link](https://meditech-healthcare.web.app/)
-- [Doctor Dashboard](https://meditech-healthcare.web.app/user.html)
-- [Researcher Section](https://meditech-healthcare.web.app/researcher/researcher.html)
 <!-- CONTRIBUTING -->
 
 ## Installation
 
 1. Clone the repository on your system
    ```sh
-   git clone https://github.com/aniketyadavv/MediTech.git
+   git clone
    ```
 2. Or direct download ZIP file in your system
 
